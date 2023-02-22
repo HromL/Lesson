@@ -1,31 +1,29 @@
 h1 {
-    color: rgba(104, 18, 94, 0.803);
-    
-    margin-top: 80px;
-    text-align: center;
-    font-size: 70px;
+  color: rgba(104, 18, 94, 0.803);
+
+  margin-top: 80px;
+  text-align: center;
+  font-size: 70px;
 }
 
 .div-red {
-    color: red;
+  color: red;
 }
 .div-green {
-    color: green;
+  color: green;
 }
 
-.paragraf{
-    font-size: 30px;
+.paragraf {
+  font-size: 30px;
 }
 .hide {
-    display: none;
-    /* background-color: green; */
+  display: none;
+  /* background-color: green; */
 }
-#btn{
-    color:red;
-    height: 40px;
-    width: 380px;
-    border-radius: 100px;
-    border:10px solid red;
-    
-
+.btn {
+  color: red;
+  height: 40px;
+  width: 380px;
+  border-radius: 100px;
+  border: 10px solid red;
 }
